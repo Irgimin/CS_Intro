@@ -1,0 +1,15 @@
+C:\GB\VSC\CS\Курс\001\bin\Debug\net7.0\001.exe
+C:\GB\VSC\CS\Курс\001\bin\Debug\net7.0\001.deps.json
+C:\GB\VSC\CS\Курс\001\bin\Debug\net7.0\001.runtimeconfig.json
+C:\GB\VSC\CS\Курс\001\bin\Debug\net7.0\001.dll
+C:\GB\VSC\CS\Курс\001\bin\Debug\net7.0\001.pdb
+C:\GB\VSC\CS\Курс\001\obj\Debug\net7.0\001.csproj.AssemblyReference.cache
+C:\GB\VSC\CS\Курс\001\obj\Debug\net7.0\001.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\VSC\CS\Курс\001\obj\Debug\net7.0\001.AssemblyInfoInputs.cache
+C:\GB\VSC\CS\Курс\001\obj\Debug\net7.0\001.AssemblyInfo.cs
+C:\GB\VSC\CS\Курс\001\obj\Debug\net7.0\001.csproj.CoreCompileInputs.cache
+C:\GB\VSC\CS\Курс\001\obj\Debug\net7.0\001.dll
+C:\GB\VSC\CS\Курс\001\obj\Debug\net7.0\refint\001.dll
+C:\GB\VSC\CS\Курс\001\obj\Debug\net7.0\001.pdb
+C:\GB\VSC\CS\Курс\001\obj\Debug\net7.0\001.genruntimeconfig.cache
+C:\GB\VSC\CS\Курс\001\obj\Debug\net7.0\ref\001.dll
